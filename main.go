@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/kamaleshnneerasa/GoExamples/handlers"
+	"github.com/kamaleshnneerasa/GoExamples/handlers1"
 )
 
 func main() {
